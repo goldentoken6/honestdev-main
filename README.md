@@ -283,8 +283,6 @@ Thanks a lot in advance!
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
 </p> -->
-
-
 ## ⚡ Status
 
 <div align='center' width='100%'>
